@@ -1,0 +1,42 @@
+ /* common start */
+/* common end */
+
+/* header start here */
+.wrapper{
+  width: 60%;
+  margin: 0 auto;
+  border: 5px solid #ddd;
+}
+label{
+  font-size: 25px;
+}
+.first_name, .last_name, .email, .password{
+  width: 90%;
+  height: 25px;
+  padding: 10px;
+  font-size: 18px;
+}
+.massage{
+  font-size: 18px;
+  padding: 10px;
+}
+/* header end here */
+/* table start here */
+table{
+  width: 100%;
+  border: 1px solid;
+}
+caption{
+  background-color: blue;
+  color: white;
+}
+th, td{
+  font-size: 20px;
+  text-align: center;
+  border: 1px solid;
+  
+}
+td:hover{
+  background-color: #ddd;
+}
+/* table end here */
